@@ -4,7 +4,7 @@ This project is created in 2019 by Susanna Hepp and Antonia Reiter for education
 ![maze](docs/images/monster-maze.png "maze")
 
 ## 0. Start
-Test 
+Test 2.0
 
 ## 0.0 Start
 Test again 
